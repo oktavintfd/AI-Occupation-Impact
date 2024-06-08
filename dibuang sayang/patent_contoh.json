@@ -1,0 +1,28 @@
+{
+    "title_localized":[
+        {
+            "text":"Text emotion analysis method and device",
+            "language":"en",
+            "truncated":false
+        },
+        {
+            "text":"文本情感分析方法和装置",
+            "language":"zh",
+            "truncated":false
+        }
+    ],
+    "abstract_localized":[
+        {
+            "text":"The invention discloses a kind of text emotion analysis method and device, it is related to field of computer technology.One embodiment of this method includes：Obtain language material training sample and sentiment dictionary；Based on the language material training sample, the sentiment dictionary is extended to form enhancing sentiment dictionary；According to the enhancing sentiment dictionary, the emotion of text to be analyzed is determined.The embodiment analyzes the emotion of text using unsupervised method, it is not necessary to and it is artificial to participate in, save cost；Sentiment dictionary is extended, its usage scenario is enriched, improves analysis accuracy rate.",
+            "language":"en",
+            "truncated":false
+        },
+        {
+            "text":"本发明公开了一种文本情感分析方法和装置，涉及计算机技术领域。该方法的一具体实施方式包括：获取语料训练样本和情感词典；基于所述语料训练样本，对所述情感词典进行扩展以形成增强情感词典；根据所述增强情感词典，确定待分析文本的情感。该实施方式采用无监督的方法分析文本的情感，不需要人工参与，节省成本；对情感词典进行扩展，丰富其使用场景，提高了分析准确率。",
+            "language":"zh",
+            "truncated":false
+        }
+    ],
+    "country_code":"CN",
+    "publication_date":"20180406"
+}
